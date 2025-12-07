@@ -31,7 +31,12 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+- **Educational Clarity**: Does the plan prioritize accessible, practical, and clear implementation?
+- **Technical Accuracy**: Does the plan include steps for rigorous testing and verification of all code and procedures?
+- **Progressive Learning**: Is the feature structured to build on existing concepts logically?
+- **Community-Driven Quality**: Does the plan consider discoverability, shareability, and community contribution?
+- **Maintainability**: Is the proposed solution designed for long-term updates and management?
+- **Standards Compliance**: Does the plan adhere to the project's key standards (writing style, code examples, accessibility, etc.)?
 
 ## Project Structure
 
