@@ -13,8 +13,8 @@
       "calendar": "gregory",
       "path": "en",
       "translate": false,
-      "url": "https://specifykit.github.io",
-      "baseUrl": "/ai-native-book/"
+      "url": "https://ai-native-book-orcin.vercel.app",
+      "baseUrl": "/"
     }
   }
 }

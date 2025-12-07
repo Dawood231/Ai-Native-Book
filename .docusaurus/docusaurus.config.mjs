@@ -28,8 +28,8 @@ export default {
     },
     "experimental_router": "browser"
   },
-  "url": "https://specifykit.github.io",
-  "baseUrl": "/ai-native-book/",
+  "url": "https://ai-native-book-orcin.vercel.app",
+  "baseUrl": "/",
   "organizationName": "specifykit",
   "projectName": "ai-native-book",
   "onBrokenLinks": "throw",
