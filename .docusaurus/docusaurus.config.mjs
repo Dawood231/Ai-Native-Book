@@ -95,7 +95,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/specifykit/ai-native-book",
+          "href": "https://github.com/Dawood231/Ai-Native-Book/tree/main/",
           "label": "GitHub",
           "position": "right"
         }

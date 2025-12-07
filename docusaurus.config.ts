@@ -88,7 +88,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/specifykit/ai-native-book', // Changed to project repo
+          href: 'https://github.com/Dawood231/Ai-Native-Book/tree/main/', // Changed to project repo
           label: 'GitHub',
           position: 'right',
         },
