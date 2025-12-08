@@ -132,7 +132,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/Dawood231/Ai-Native-Book/tree/main/',
             },
           ],
         },
