@@ -11,7 +11,12 @@ const PORT = Number(process.env.PORT) || 7860;
 const Client = process.env.CLIENT_URL || "http://localhost:3000";
 
 app.use(cors({
-    origin: Client, // Adjust as needed
+  origin: [
+    "http://localhost:3000",
+    "http://127.0.0.1:3000",
+    Client,
+    "https://ai-native-book-orcin.vercel.app"
+  ],
   credentials: true,
   methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
   allowedHeaders: ["Content-Type", "Authorization"],
